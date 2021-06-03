@@ -48,6 +48,6 @@ I am a 3rd year student at Firat  University. I am  Web and Mobile Developer
 
 
 <a href="https://github.com/umitkoc">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yusufferdogan&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=umitkoc&layout=compact&theme=radical" />
 </a>
 
