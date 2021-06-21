@@ -45,7 +45,7 @@ I am a 3rd year student at Firat  University. I am  Web and Mobile Developer
 </code>](https://github.com/)
 <br />
 
-
+<figure><embed src="https://wakatime.com/share/@umitkoc/0e856d85-6c34-4251-a37b-996a0a00be39.svg"></embed></figure>
 
 <a href="https://github.com/umitkoc">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=umitkoc&layout=compact&theme=radical" />
