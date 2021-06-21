@@ -44,7 +44,10 @@ I am a 3rd year student at Firat  University. I am  Web and Mobile Developer
 <img alt="github" width="26px" src="https://img.icons8.com/color/48/000000/git.png">
 </code>](https://github.com/)
 <br />
+<a href="https://github.com/umitkoc"></a>
+<br />
+<br />
 ![Alt text](https://wakatime.com/share/@umitkoc/0e856d85-6c34-4251-a37b-996a0a00be39.svg)
 
-<a href="https://github.com/umitkoc"></a>
+
 
