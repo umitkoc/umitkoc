@@ -40,9 +40,6 @@ I am a 3rd year student at Firat  University. I am  Web and Mobile Developer
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
 [<code>
-<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>](https://www.latex-project.org/)
-[<code>
 <img alt="github" width="26px" src="https://img.icons8.com/color/48/000000/git.png">
 </code>](https://github.com/)
 <br />
