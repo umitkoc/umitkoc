@@ -12,7 +12,7 @@ I am a 3rd year student at Firat  University. I am  Web and Mobile Developer
 
 
 - 🔭 I’m currently Searching for an intern
-- 🌱 I’m currently learning Flutter,Java, C#, Python, Javascript(React) , C++
+- 🌱 I’m currently learning Flutter,Java, C#, Python, Javascript(React) , C++ and C
 - 👯 I’m looking to collaborate on Open Source Projects
 ### Languages and Tools:
 [<code>
