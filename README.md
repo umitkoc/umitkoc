@@ -46,5 +46,11 @@ I am a 3rd year student at Firat  University. I am  Web and Mobile Developer
 ![Alt text](https://wakatime.com/share/@umitkoc/a15fe158-8032-4099-81db-ba3f21700e5c.svg)
 
 
-
+<p align="center">
+<a target="_blank" href="https://github.com/umitkoc"><img alt="My GitHub Profile" src="https://img.shields.io/github/followers/umitkoc?label=FOLLOW&style=flat"></a>
+<img src="https://komarev.com/ghpvc/?username=umitkoc&color=orange" alt="umitkoc :: Profile Stats"></a>
+<a href="https://www.linkedin.com/in/mtkc/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mtkc-blue?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/bay_muhendis/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-bay_muhendis-lightblue?style=flat&logo=twitter"></a>
+<a href="mailto:umitkoc.com@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-umitkoc.com@gmail.com-yellowgreen?style=flat&logo=gmail"></a>
+</p>
 
