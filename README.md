@@ -8,7 +8,7 @@
 <br />
 <br />
 
-I am a 3rd year student at Firat  University. I am  Web and Mobile Developer
+I am a 4rd year student at Firat  University. I am  Web and Mobile Developer
 
 <p align="center">
 <a target="_blank" href="https://github.com/umitkoc"><img alt="My GitHub Profile" src="https://img.shields.io/github/followers/umitkoc?label=FOLLOW&style=flat"></a>
