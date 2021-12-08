@@ -49,7 +49,7 @@ I am a 4rd year student at Firat  University. I am  Web and Mobile Developer
 </code>](https://www.json.org/json-en.html)
 <br />
 <a href="https://github.com/umitkoc"></a>
-![Alt text](https://wakatime.com/share/@umitkoc/a15fe158-8032-4099-81db-ba3f21700e5c.svg)
+![Alt text](https://wakatime.com/share/@umitkoc/4289ee34-033c-48b6-86a0-f14231159293.svg)
 
 
 
