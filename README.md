@@ -19,8 +19,10 @@ I am a 4rd year student at Firat  University. I am  Web and Mobile Developer
 </p>
 
 - 🔭 I’m currently Searching for an intern
-- 🌱 I’m currently learning Flutter,Java, C#, Python, Javascript(React) , C++ and C
+- 🌱 I’m currently learning Flutter,Java, C#, Python, Javascript(Angular), Dart , C++ and C
 - 👯 I’m looking to collaborate on Open Source Projects
+- 🌱 NoSql (MongoDb,Firebase) Sql(MsSql,SQLite,MySql)
+- 🌱 API(Flask)
 
 ### Languages and Tools:
 [<code>
