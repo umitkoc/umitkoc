@@ -52,7 +52,7 @@ I am a 4rd year student at Firat  University. I am  Web and Mobile Developer
 -----------------------------
 
 
-<img width="40%" src="https://wakatime.com/share/@umitkoc/4289ee34-033c-48b6-86a0-f14231159293.svg"><img width="40%" src="https://wakatime.com/share/@umitkoc/1463f711-bb03-4b22-863b-c301118af508.svg">
+<img width="40%" src="https://wakatime.com/share/@umitkoc/4289ee34-033c-48b6-86a0-f14231159293.svg"> <img width="40%" src="https://wakatime.com/share/@umitkoc/1463f711-bb03-4b22-863b-c301118af508.svg">
 
 
 
