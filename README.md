@@ -49,14 +49,12 @@ I am a 4rd year student at Firat  University. I am  Web and Mobile Developer
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
-<br />
-<div width="50%">  
+-----------------------------
 <a href="https://github.com/umitkoc"></a>
 ![Alt text](https://wakatime.com/share/@umitkoc/4289ee34-033c-48b6-86a0-f14231159293.svg)
+-----------------------------
 <a href="https://github.com/umitkoc"></a>
 ![Alt text](https://wakatime.com/share/@umitkoc/1463f711-bb03-4b22-863b-c301118af508.svg)
-  
-   </div>
 
 
 
