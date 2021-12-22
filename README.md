@@ -51,10 +51,10 @@ I am a 4rd year student at Firat  University. I am  Web and Mobile Developer
 </code>](https://www.json.org/json-en.html)
 -----------------------------
 <a href="https://github.com/umitkoc"></a>
-![Alt text](https://wakatime.com/share/@umitkoc/4289ee34-033c-48b6-86a0-f14231159293.svg)
+![Alt text](https://wakatime.com/share/@umitkoc/4289ee34-033c-48b6-86a0-f14231159293.svg){:width="50%"}
 -----------------------------
 <a href="https://github.com/umitkoc"></a>
-![Alt text](https://wakatime.com/share/@umitkoc/1463f711-bb03-4b22-863b-c301118af508.svg)
+![Alt text](https://wakatime.com/share/@umitkoc/1463f711-bb03-4b22-863b-c301118af508.svg){:width="50%"}
 
 
 
