@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 ```
                     _        
@@ -15,6 +15,9 @@
                                                                              |_|
 
 ```
+<p class="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</p>
 
 <a href="https://www.linkedin.com/in/mtkc/n">
   <img align="left" alt="Ümit KOÇ" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
