@@ -1,5 +1,3 @@
-
-
 ```
                     _        
   ___    ___     __| |   ___ 
@@ -13,7 +11,6 @@
                                    | (_| | |  __/  \ V /  |  __/ | | | (_) | | |_) | |  __/ | |   
                                     \__,_|  \___|   \_/    \___| |_|  \___/  | .__/   \___| |_|   
                                                                              |_|
-
 ```
 <p align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
