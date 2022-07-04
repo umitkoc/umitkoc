@@ -13,7 +13,7 @@
                                                                              |_|
 ```
 
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="umittkoc" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/umittkoc?trk=profile-badge">Ümit KOÇ</a></div>
+
               
 <p align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
