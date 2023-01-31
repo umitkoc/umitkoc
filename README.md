@@ -41,31 +41,7 @@ I am a 4rd year student at Firat  University. I am  Web and Mobile Developer
 - 🌱 NoSql (MongoDb,Firebase) Sql(MsSql,SQLite,MySql), NodeJs
 - 🌱 API(Flask)
 
-### Languages and Tools:
-[<code>
-<img alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
-</code>](https://flutter.dev)
-[<code>
-<img alt="Dart" width="26px" src="https://img.icons8.com/color/48/000000/dart.png" />
-</code>](https://dart.dev)
-[<code>
-<img alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
-</code>](https://firebase.google.com)
-[<code>
-<img alt="Android studio" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />
-</code>](https://developer.android.com/studio)
-[<code>
-<img alt="Rest Api" width="26px" src="https://img.icons8.com/nolan/64/api-settings.png" />
-</code>](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
-[<code>
-<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-</code>](https://en.wikipedia.org/wiki/C%2B%2B)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
+
 
 -----------------------------
 
