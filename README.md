@@ -22,10 +22,7 @@
 <a href="https://www.linkedin.com/in/mtkc/n">
   <img align="left" alt="Ümit KOÇ" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br />
-<br />
-
-I am a 4rd year student at Firat  University. I am  Web and Mobile Developer
+<hr>
 
 <p align="center">
 <a target="_blank" href="https://github.com/umitkoc"><img alt="My GitHub Profile" src="https://img.shields.io/github/followers/umitkoc?label=FOLLOW&style=flat"></a>
