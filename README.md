@@ -54,8 +54,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umitkoc&" alt="umitkoc" /></p>
 
 
-![snake gif](https://github.com/umitkoc/umitkoc/blob/output/github-contribution-grid-snake.gif)
 
+
+<img alt="my image"  src="https://github.com/umitkoc/umitkoc/blob/output/github-contribution-grid-snake.svg">
 
 
 
