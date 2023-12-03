@@ -56,7 +56,7 @@
 
 
 
-<img alt="my image"  src="https://github.com/umitkoc/umitkoc/blob/output/github-contribution-grid-snake.svg">
+<img   src="https://github.com/umitkoc/umitkoc/blob/output/github-contribution-grid-snake.svg" >
 
 
 
