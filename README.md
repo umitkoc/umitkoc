@@ -54,7 +54,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-
+<img src="https://wakatime.com/share/@umitkoc/6721b83b-6aa4-44e0-be7a-5fda0901dcc7.svg" width="45%"> <img src="https://wakatime.com/share/@umitkoc/2312e3a0-7b96-4330-8475-c5208b7427ee.svg" width="45%">
 
 <img   src="https://github.com/umitkoc/umitkoc/blob/output/github-contribution-grid-snake.svg" >
 
