@@ -38,7 +38,7 @@
 <a href="https://medium.com/@umit-koc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umit-koc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucw9r_deqdw4un03qvhtjyua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucw9r_deqdw4un03qvhtjyua" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/umitkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umitkoc" height="30" width="40" /></a>
-<a href="/https://umitkoc.com.tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://umitkoc.com.tr" height="30" width="40" /></a>
+<a href="https://umitkoc.com.tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://umitkoc.com.tr" height="30" width="40" /></a>
 </p>
 
 
