@@ -49,10 +49,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       11 mins         ████████████████░░░░░░░░░   63.63 %
-JSON         6 mins          ████████▓░░░░░░░░░░░░░░░░   34.46 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
