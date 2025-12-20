@@ -80,18 +80,15 @@ Docker · Kubernetes · GitHub Actions · Jenkins · Linux · Postman · RabbitM
 ## ⏱️ Weekly Development Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-TypeScript   4 hrs 19 mins   37.60 %
-YAML         1 hr 28 mins    12.75 %
-JSON         59 mins         08.62 %
-Bash         57 mins         08.36 %
-Docker       54 mins         07.89 %
+<figure><embed src="https://wakatime.com/share/@umitkoc/ecaac83b-d8e6-427d-9532-25dc0c3fff44.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@umitkoc/0f9e7cad-9c7b-441b-a7c7-c9ecca2d578a.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
 ---
 
 ## 🐍 GitHub Contribution Graph
 
-https://github.com/umitkoc/umitkoc/blob/output/github-contribution-grid-snake.svg
+<img src="https://github.com/umitkoc/umitkoc/blob/output/github-contribution-grid-snake.svg" >
 
 ---
 
