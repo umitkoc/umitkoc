@@ -80,8 +80,8 @@ Docker · Kubernetes · GitHub Actions · Jenkins · Linux · Postman · RabbitM
 ## ⏱️ Weekly Development Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@umitkoc/ecaac83b-d8e6-427d-9532-25dc0c3fff44.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@umitkoc/0f9e7cad-9c7b-441b-a7c7-c9ecca2d578a.svg"></embed></figure>
+<img src="https://wakatime.com/share/@umitkoc/ecaac83b-d8e6-427d-9532-25dc0c3fff44.svg" width="45%"></img>
+<img src="https://wakatime.com/share/@umitkoc/0f9e7cad-9c7b-441b-a7c7-c9ecca2d578a.svg" width="45%"></img>
 <!--END_SECTION:waka-->
 
 ---
