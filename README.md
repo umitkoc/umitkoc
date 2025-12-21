@@ -82,11 +82,11 @@ Docker · Kubernetes · GitHub Actions · Jenkins · Linux · Postman · RabbitM
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   37.60 %
-YAML         1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-JSON         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Bash         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-Docker       54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+TypeScript   3 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   41.87 %
+JSON         1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+JavaScript   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Docker       39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+HTML         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
 ```
 
 <!--END_SECTION:waka-->
