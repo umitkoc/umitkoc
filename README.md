@@ -82,10 +82,7 @@ Docker · Kubernetes · GitHub Actions · Jenkins · Linux · Postman · RabbitM
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 mins               ██████████████▒░░░░░░░░░░   57.93 %
-TeX          3 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-Bash         3 mins                █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
