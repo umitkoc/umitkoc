@@ -82,11 +82,11 @@ Docker · Kubernetes · GitHub Actions · Jenkins · Linux · Postman · RabbitM
 <!--START_SECTION:waka-->
 
 ```txt
-Python     42 mins               ████████████████████░░░░░   79.92 %
-Markdown   4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Other      2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Bash       2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Docker     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python       1 hr 10 mins          █████████████████▒░░░░░░░   69.26 %
+Bash         9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Text         8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Git Config   5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Markdown     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
