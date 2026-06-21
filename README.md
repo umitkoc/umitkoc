@@ -82,11 +82,11 @@ Docker · Kubernetes · GitHub Actions · Jenkins · Linux · Postman · RabbitM
 <!--START_SECTION:waka-->
 
 ```txt
-C#          1 hr 12 mins          ██████████▓░░░░░░░░░░░░░░   42.83 %
-XML         41 mins               ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-CocoaPods   17 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-JSON        14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Dart        9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+C#          1 hr                  ████████████▒░░░░░░░░░░░░   49.52 %
+XML         22 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
+CocoaPods   17 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Dart        9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Markdown    5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
