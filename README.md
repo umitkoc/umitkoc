@@ -82,11 +82,11 @@ Docker · Kubernetes · GitHub Actions · Jenkins · Linux · Postman · RabbitM
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              2 hrs 56 mins         █████████████▓░░░░░░░░░░░   54.75 %
-HTML              1 hr 4 mins           █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-JSON              38 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Java Properties   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Text              6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Dart             2 hrs 55 mins         █████████████████▒░░░░░░░   68.85 %
+HTML             1 hr 4 mins           ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+XML              4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+PHP              3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+YAML             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
