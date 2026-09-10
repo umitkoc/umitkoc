@@ -82,11 +82,10 @@ Docker · Kubernetes · GitHub Actions · Jenkins · Linux · Postman · RabbitM
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr                  █████████████▓░░░░░░░░░░░   54.65 %
-TypeScript   48 mins               ███████████░░░░░░░░░░░░░░   43.53 %
-JSON         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   15 mins               █████████████████░░░░░░░░   67.89 %
+Markdown     7 mins                ████████░░░░░░░░░░░░░░░░░   31.92 %
+SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
